@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Github Repository URL](https://github.com/aubertlenno/intro-section-with-dropdown-navigation)
+- Live Site URL: [Live site URL](https://aubertlenno.github.io/intro-section-with-dropdown-navigation/)
 
 ## My process
 
